@@ -1,6 +1,6 @@
 
 name: "Hello Actions"
-descriptor: "Greet somone"
+description: "Greet somone"
 author: "octocat@github.com"
 
 inputs:
